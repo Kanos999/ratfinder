@@ -1,0 +1,22 @@
+{
+  "name": "ratfinder",
+  "version": "1.0.0",
+  "description": "Web app for locating rapid antigen tests at local retailers",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rat",
+    "rapid",
+    "antigen",
+    "test",
+    "covid"
+  ],
+  "author": "Kane Jackson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongodb": "^4.3.0"
+  }
+}
